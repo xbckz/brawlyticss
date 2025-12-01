@@ -1,0 +1,11 @@
+{
+  "606751416261935123": {
+    "theme": "orange"
+  },
+  "test_user": {
+    "theme": "orange",
+    "date_range": "30d",
+    "start_date": "2025-11-18",
+    "end_date": "2025-11-28"
+  }
+}
